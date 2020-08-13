@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1cbdacbb-1c11-422e-a457-c13dcb5d4127" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/CNN - Fruit Classification.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/logs/checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/logs/checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/logs/model.ckpt-30.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/logs/model.ckpt-30.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/logs/model.ckpt-30.index" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/logs/model.ckpt-30.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memo.py" beforeDir="false" afterPath="$PROJECT_DIR$/memo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +42,28 @@
       <recent name="C:\Users\lcs10\Desktop\Git\SMU_GP\TensorFlow_Model\Learning\Linear Regression" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Linear2">
+  <component name="RunManager" selected="Python.CNN_Fruit_Classification">
+    <configuration name="CNN_Fruit_Classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TensorFlow_Model" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CNN/CNN_Fruit_Classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Gradient Descent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TensorFlow_Model" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,28 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Logistic_regression_Keras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TensorFlow_Model" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\lcs1094\Desktop\PyCharm\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning/Logistic Regression" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/Logistic Regression/Logistic_regression_Keras.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Multi_Variable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="memo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TensorFlow_Model" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\lcs10\Desktop\Git\SMU_GP\TensorFlow_Model\Learning\Linear Regression\Multi_Variable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/memo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CNN_Fruit_Classification" />
+        <item itemvalue="Python.memo" />
         <item itemvalue="Python.Linear2" />
         <item itemvalue="Python.Linear Regression" />
         <item itemvalue="Python.Gradient Descent" />
-        <item itemvalue="Python.Logistic_regression_Keras" />
-        <item itemvalue="Python.Multi_Variable" />
       </list>
     </recent_temporary>
   </component>
@@ -167,55 +172,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="676" y="132" key="#Logistic_regression_Keras" timestamp="1582528359610">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1597051378895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="676" y="132" key="#Logistic_regression_Keras/0.0.1920.1040@0.0.1920.1040" timestamp="1582528359610" />
-    <state x="552" y="179" key="#Notifications" timestamp="1581674176802">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597051378895" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1597051378895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="179" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581674176802" />
-    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1585033763119">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597051378895" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1597051378895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582528741156" />
-    <state x="739" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585033763119" />
-    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1588258173576">
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597051378895" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1597051378895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588258173576" />
-    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581917953562" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582535487470" />
-    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1588258173576">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588258173576" />
-    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581917953562" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582535487469" />
-    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1588258173576">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588258173576" />
-    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581917953562" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582535487469" />
-    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1588258173576">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588258173576" />
-    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581917953562" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582535487470" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1582528841008">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581674033350" />
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582528841008" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1581674042158">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581674042158" />
-    <state x="764" y="385" key="git4idea.rebase.GitRebaseDialog" timestamp="1581674126662">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="764" y="385" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581674126662" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1597051378895" />
   </component>
 </project>
