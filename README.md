@@ -5,5 +5,5 @@
 201511044 이승재<br>
 201511053 임채선<br>
 
-Find My Pey's Information
+Find My Pet's Information
 FMPI
